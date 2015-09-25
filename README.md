@@ -18,10 +18,12 @@ I'm using a simple bootstrap dashboard theme with some morris.js charts to displ
 
 A standard login page for users. Perhaps use Facebook or google plus. Also hostels will be forced to use the same spreadsheet. They have to copy the sheet and make it available to anyone with a link. The have to get the google doc Key and place it a text box, and that field will update the dashboard code so it works.
 
-Step 4: Alerts code and settings Enable alerts or emails (they would perfer) if KPI's are dropping. Use a PHP mailer for email.
+<h2>Step 4: Alerts</h2>
+Alerts code and settings Enable alerts or emails (they would perfer) if KPI's are dropping. Use a PHP mailer for email.
 
 Zip Up, Ready to GO!
 
-Step 5: Build to a Php survey form and mySQL for the database that will work better for larger properties.
+<h2>Step 5: Expand</h2>
+Build to a Php survey form and mySQL for the database that will work better for larger properties.
 
-Note: I personally put this project aside as I went to work on others. I do want to return to eventually
+Note: I personally put this project aside as I went to work on others. I do want to return to eventually. Anywone is welcome to join and I'd love to help out in every I can. This will be great for techies who travel. You can offer to install this for hostels and get free stay. When done, this will take no time to implement.
