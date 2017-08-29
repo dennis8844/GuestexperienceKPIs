@@ -6,17 +6,19 @@ Problem: Hostels and small hotels do not have the funds for expensive Guest Expe
 
 Solution:
 
-<h3>Step 1: Obtain Data:</h3> (completed) https://docs.google.com/spreadsheets/d/1FRnfHkSaz9pOgeurGDe6ipHWoRpolaLDkYVrPFBiy58/edit?usp=sharing )
+<h3>Step 1: Obtain Data:</h3> 
+Data will be obtained from a form like this: https://docs.google.com/forms/d/e/1FAIpQLScHyDqa7Zpq90HlWtp_EKLK76TihZIIvMOyn76cFfuFe_FPSg/viewform?usp=send_form
+(completed) https://docs.google.com/spreadsheets/d/1FRnfHkSaz9pOgeurGDe6ipHWoRpolaLDkYVrPFBiy58/edit?usp=sharing )
 
 I used a google form that hostels will include a link in their guest exit emails. The data from the form responses go to a google spreadsheet. Said spreadsheet will serve as the backend database and we will use it as published to JSON for the numbers. More here http://acrl.ala.org/techconnect/post/query-a-google-spreadsheet-like-a-database-with-google-visualization-api-query-language
 
 <h3>Step 2: Build Dashboard</h3>
 
-I'm using a simple bootstrap dashboard theme with some morris.js charts to display the data. I can use mustache.js or angular to bind the data from an object pulled from the spreadsheet.
+Angular material design dashboard using a graph package like dv3 to display the data. I'll pull the data from the google doc using json.
 
 <h3>Step 3: Build a login and settings page</h3>
 
-A standard login page for users. Perhaps use Facebook or google plus. Also hostels will be forced to use the same spreadsheet. They have to copy the sheet and make it available to anyone with a link. The have to get the google doc Key and place it a text box, and that field will update the dashboard code so it works.
+A simple firebase login for this will do, using google and facebook auth. Angular UI Router would route non logged in visits tot he login page. Also hostels will be forced to use the same spreadsheet. They have to copy the sheet and make it available to anyone with a link. The have to get the google doc Key and place it a text box, and that field will update the dashboard code so it works.
 
 <h3>Step 4: Alerts</h3>
 Alerts code and settings Enable alerts or emails (they would perfer) if KPI's are dropping. Use a PHP mailer for email.
