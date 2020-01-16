@@ -2,114 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24a9ba59-6fd0-431c-b89c-58d339243829" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/material-dashboard-react.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/angular.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/chrome.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/dashboard.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/edge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/firefox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/html.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/map.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/md-react.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/notifications.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/opera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/opt_md_angular_thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/opt_md_thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/opt_md_vue_thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/opt_mdr_thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/safari.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/tables.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/userprofile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/vuejs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/cover.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/faces/marc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/mask.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/new_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/reactlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/tim_80x80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/cardImagesStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/checkboxAdnRadioStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/buttonStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/cardAvatarStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/cardBodyStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/cardFooterStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/cardHeaderStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/cardIconStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/cardStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/customInputStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/customTabsStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/footerStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/headerLinksStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/headerStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/rtlHeaderLinksStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/sidebarStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/snackbarContentStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/tableStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/tasksStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/typographyStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/dropdownStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/layouts/adminStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/layouts/rtlStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/tooltipStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/views/dashboardStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/views/iconsStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/views/rtlStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardAvatar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardBody.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardFooter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardIcon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomButtons/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomInput/CustomInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomTabs/CustomTabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FixedPlugin/FixedPlugin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Grid/GridContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Grid/GridItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbars/AdminNavbarLinks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbars/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbars/RTLNavbarLinks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Sidebar/Sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Snackbar/Snackbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Snackbar/SnackbarContent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Table/Table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tasks/Tasks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Danger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Muted.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Primary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Quote.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Success.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Warning.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/Admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/RTL.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/charts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/general.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Icons/Icons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Notifications/Notifications.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/RTLPage/RTLPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/TableList/TableList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Typography/Typography.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/UpgradeToPro/UpgradeToPro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/UserProfile/UserProfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -135,8 +29,9 @@
           <entry key="Dockerfile" value="2" />
           <entry key="css" value="1" />
           <entry key="dockerignore" value="1" />
+          <entry key="gitignore" value="1" />
           <entry key="html" value="1" />
-          <entry key="js" value="29" />
+          <entry key="js" value="30" />
           <entry key="json" value="2" />
           <entry key="lock" value="1" />
           <entry key="md" value="2" />
@@ -150,9 +45,9 @@
           <entry key="Dockerfile" value="2" />
           <entry key="HTML" value="1" />
           <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="29" />
+          <entry key="JavaScript" value="30" />
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="YAML" value="2" />
           <entry key="yarn.lock" value="1" />
         </counts>
@@ -160,6 +55,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Dockerfile" value="19" />
+          <entry key="gitignore" value="57" />
           <entry key="html" value="973" />
           <entry key="js" value="171" />
           <entry key="json" value="113" />
@@ -174,6 +70,7 @@
           <entry key="JSON" value="113" />
           <entry key="JavaScript" value="171" />
           <entry key="Markdown" value="58" />
+          <entry key="PLAIN_TEXT" value="57" />
           <entry key="YAML" value="29" />
         </counts>
       </usages-collector>
@@ -190,11 +87,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/headerStyle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#202#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -288,6 +205,7 @@
         <option value="$PROJECT_DIR$/src/routes.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -502,12 +420,12 @@
       <option name="presentableId" value="Default" />
       <updated>1579134067908</updated>
       <workItem from="1579134070143" duration="1785000" />
-      <workItem from="1579136231387" duration="4652000" />
+      <workItem from="1579136231387" duration="5045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6437000" />
+    <option name="totallyTimeSpent" value="6830000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1080" extended-state="0" />
@@ -846,6 +764,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/headerStyle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
