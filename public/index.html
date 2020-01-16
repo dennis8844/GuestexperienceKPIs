@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>React App</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <script type="application/javascript">
+        /*
+        *
+        *
+        *
+        * This is where you add your variables to connect with google
+        *
+        *
+         */
+        //set to true
+        //this is the document id of the publically shared google sheet
+        var adminSettings = {
+            //set to true if you're useing a publically accessable sheet data. If false, you must have a client lower
+            sheetIsPublic: true,
+            //this is the client id so google will always check to see if you're logged in if above is false,
+            //you will need to enable this feature
+            googleClientId: '',
+            //only valid if useing the client id above, matching type of domain or full_email
+            mustMatchType: 'full_email',
+            //the actual domain or string it must match to be viewable
+            mustMatchString: 'myself@email.com'
+            //this is the file id of the sheet that you moved into your google drive. You must make it public or integrate
+            // with google to auth your logged in.
+            googleFileID: ''
+        };
+    </script>
+  </body>
+</html>
