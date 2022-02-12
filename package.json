@@ -43,7 +43,7 @@
   "homepage": "https://github.com/dennis8844/GuestexperienceKPIs#readme",
   "optionalDependencies": {
     "@types/markerclustererplus": "2.1.33",
-    "ajv": "6.10.2",
+    "ajv": "6.12.3",
     "typescript": "3.5.3"
   },
   "devDependencies": {
